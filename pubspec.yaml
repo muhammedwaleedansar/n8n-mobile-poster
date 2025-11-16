@@ -16,7 +16,7 @@ dependencies:
   googleapis_auth: ^2.0.0
   http: ^1.2.2
   uuid: ^4.5.0
-  flutter_flow_chart: ^0.0.6
+ 
 
 dev_dependencies:
   flutter_test:
